@@ -4,6 +4,11 @@ Proyek ini membangun Aturan (Kebijakan) / Mesin Inferensi dengan kemudahan pengg
 -Penulis aturan atau pelaku bisnis TIDAK perlu menerapkan aturan / kebijakan secara terpisah seperti mesin aturan lainnya
 -Seorang pengguna mesin dapat melakukan Foward-chaining dan Backward-chaining dengan aturan / kebijakan yang ditetapkan
 
+Mesin Aturan / Inferensi
+Rules Engine yang jauh lebih sederhana dan mudah tidak hanya digunakan tetapi juga memelihara, Rules / Policy' untuk bisnis.
+Video juga tersedia di (https://youtu.be/xyWjscJ3LxI) << Subscribe buat Support Channelnya :)
+atau tautan lainnya adalah (https://youtu.be/O-itMgYHRvc) << Subscribe buat Support Channelnya :)
+
 Cara kerja Rantai Mundur dan Maju
 Misalkan ada aturan berikut:
 
